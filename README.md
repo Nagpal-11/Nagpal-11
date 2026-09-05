@@ -173,16 +173,16 @@ As **AI Club Coordinator at Mizoram University**, I lead a campus-wide movement 
 
 ## 📡 CONNECT WITH ME
 
-<a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+<a href="https://www.linkedin.com/in/ekjot-nagpal/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00fff9&labelColor=0d1117"/>
 </a>
-<a href="mailto:your-email@example.com" target="_blank">
+<a href="mailto:nagpalekjotsingh@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=bc13fe&labelColor=0d1117"/>
 </a>
-<a href="https://kaggle.com/your-kaggle-username" target="_blank">
+<a href="https://www.kaggle.com/ekjotnagpal" target="_blank">
 <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF&labelColor=0d1117"/>
 </a>
-<a href="https://your-portfolio-link.com" target="_blank">
+<a href="https://www.ekjotnagpal.in/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0d1117"/>
 </a>
 
