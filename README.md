@@ -109,13 +109,9 @@ I am a **final-year CSE undergraduate**, **Research Writer**, and the **AI Club 
 
 <br/><br/>
 
-### 🔥 Contribution Heatmap
+<div align="center">
 
-<img src="https://ghchart.rshah.org/00fff9/your-github-username" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/blue-lines.gif" width="100%"/>
 
 </div>
 
