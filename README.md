@@ -109,9 +109,15 @@ I am a **final-year CSE undergraduate**, **Research Writer**, and the **AI Club 
 
 <br/><br/>
 
-<div align="center">
+### ⚡ Development Snapshot
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/blue-lines.gif" width="100%"/>
+<img src="https://img.shields.io/badge/Focus-Deep_Learning_%26_ANNs-0d1117?style=for-the-badge&labelColor=0d1117&color=00fff9"/>
+<img src="https://img.shields.io/badge/Current_Sprint-Semi--Supervised_Research-0d1117?style=for-the-badge&labelColor=0d1117&color=bc13fe"/>
+<img src="https://img.shields.io/badge/Shipping-Streamlit_Deployments-0d1117?style=for-the-badge&labelColor=0d1117&color=00fff9"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
