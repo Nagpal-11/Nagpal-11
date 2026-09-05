@@ -117,8 +117,6 @@ I am a **final-year CSE undergraduate**, **Research Writer**, and the **AI Club 
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
 </div>
 
 
