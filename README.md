@@ -99,16 +99,6 @@ I am a **final-year CSE undergraduate**, **Research Writer**, and the **AI Club 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff9&icon_color=bc13fe&text_color=c9d1d9&include_all_commits=true&count_private=true" width="49%"/>
-
-
-<br/>
-
-
-
-
-<br/><br/>
-
 ### ⚡ Development Snapshot
 
 <img src="https://img.shields.io/badge/Focus-Deep_Learning_%26_ANNs-0d1117?style=for-the-badge&labelColor=0d1117&color=00fff9"/>
