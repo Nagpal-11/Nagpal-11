@@ -1,55 +1,77 @@
-<h1 align="center">Hi there, I'm Ekjot Singh Nagpal 👋</h1>
-
-<h3 align="center">Computer Science Student | Community Builder | Developer</h3>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&width=435&lines=Building+with+Flutter+%26+Next.js;Exploring+Machine+Learning+%26+SLMs;Google+Student+Ambassador+2026;AI+Club+Coordinator" alt="Typing SVG" /></a>
-</p>
-
-I'm a Computer Science Engineering student at Mizoram University who loves turning creative ideas into functional web and mobile applications. When I'm not studying machine learning algorithms or building out backend architectures, I'm organizing events as an AI Club Coordinator, catching live music, or exploring the mountains. 
-
----
-
-### 🚀 What I'm Up To
-- 🔭 **Currently Building:** Full-stack mobile and web applications (from database schemas to UI).
-- 🌱 **Currently Learning:** Practical implementations of Small Language Models (SLMs) and AI tools.
-- 💬 **Ask me about:** Python, Dart, relational databases, or how to set up a good hackathon!
-- ⚡ **Fun fact:** I love experimenting with AI for digital art and structural designs.
-
----
-
-### 💻 Tech Stack & Tools
-
-**Frontend & Mobile:**  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-**Backend & Databases:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Cloud & Analytics:**  
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
+<!-- Animated Header -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=radium" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=radium" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Ekjot+Singh+Nagpal+👋;Building+Seamless+Mobile+%26+Web+Apps;Google+Student+Ambassador+2026;AI+Club+Coordinator" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+<!-- Dynamic Trophies -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</div>
 
----
-<p align="center">
-  <i>Let's connect and build something awesome! Check out my portfolio at <a href="https://ekjotnagpal.in">ekjotnagpal.in</a></i>
-</p>
+<br/>
+
+<!-- Interactive About Me Section -->
+### ⚡ Quick Bytes (Click to Expand)
+
+<details>
+  <summary><b>🛠️ What I'm building right now</b></summary>
+  <br/>
+  Prototyping edge-case applications like the DreamOn Safety System (strictly hardware-triggered), exploring the practical implementations of Small Language Models (SLMs), and designing clean architectures with Flutter and Python.
+</details>
+
+<details>
+  <summary><b>🌍 Community & Leadership</b></summary>
+  <br/>
+  I serve as an AI Club Coordinator and a Google Student Ambassador for 2026. I love bridging the gap between complex AI concepts and approachable developer tools for other students.
+</details>
+
+<details>
+  <summary><b>🎸 When I'm offline...</b></summary>
+  <br/>
+  You’ll probably find me generating digital art, tracking down live music and band performances, or heading to the mountains to recharge.
+</details>
+
+<br/>
+
+### 💻 Tech Arsenal
+
+<!-- Unified, beautifully rendered skill icons -->
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,python,flask,gcp,supabase,sqlite,github&perline=10" alt="Tech Stack Icons" />
+  </a>
+</div>
+
+<br/>
+
+### 📊 Live GitHub Metrics
+
+<div align="center">
+  <!-- Sleek, modern stats card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=777777" width="48%" />
+  <!-- Streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&stroke=0000&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="48%" />
+</div>
+
+<br/>
+
+### 🐍 Contribution Activity
+
+<!-- The famous animated contribution snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://ekjotnagpal.in">
+    <img src="https://img.shields.io/badge/Portfolio-ekjotnagpal.in-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
